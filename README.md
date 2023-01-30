@@ -25,7 +25,7 @@
 ## Step7: Create AWS API Gateway
 ![Create API Gateway](./images/api_gateway.png)
 
-## Step8 : Depoy API
+## Step8 : Deploy API
 ![Depoy API](./images/popup_api.png)
 
 ## Step9:Check status of Postman POSTAPI 
