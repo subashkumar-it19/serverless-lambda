@@ -1,8 +1,7 @@
 # Serverless AWS lambda
 
-## Step1: AWS Planning Architecture
-![High Level Design](./images/plan.jpeg)
-#### Tip :First use pen and paper for planning architecture 
+## Step1:Planning AWS Architecture
+
 
 
 ## Step2: Create IAMrole Policies to CRUD operations
